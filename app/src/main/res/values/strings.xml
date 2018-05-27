@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Dialog Test</string>
+
+    <!-- MainActivity メニュー用 -->
+    <string name="menuitem_aboutdialog">About Dialog</string>
+    <string name="menuitem_aboutactivity">About Activity</string>
+
+    <!-- About用 -->
+    <string name="about_title">About</string>
+    <string name="about_version">Version</string>
+    <string name="about_copyright">Copyright&#169; 2017 <a href="http://www.hiramine.com/">Nobuki HIRAMINE</a></string>
+</resources>
